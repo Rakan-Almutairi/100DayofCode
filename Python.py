@@ -19,7 +19,11 @@ print("\tx1",x1,type(x1),"\n\tx2",x2,type(x2),"\n\tx3",x3,type(x3),"====>Can't c
 print("\nsleep time",timesleep)
 
 #lesson 05
-x,y,z=" apple "," orange "," limon "
+x,y,z=" apple "," orange "," limon\n "
 basket = x + y + z
 print (basket)
-time.sleep(timesleep) #pasue to 600 sec 
+
+a ='''Hello,World
+this is a practise for python '''
+
+print(a)
