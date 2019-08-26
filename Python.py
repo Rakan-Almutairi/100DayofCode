@@ -40,11 +40,11 @@ def Oprations():
     print("Rakan" in a) #search Rakan is it in a list
 
 #lessons fun 
-#FirstWeek()
-#String_practise()
-#Oprations()
+FirstWeek()
+String_practise()
+Oprations()
 
 def practise_on_my_own():
-    name=input("enter my name\n")
-    print("###\n"+name)
+    name=input("####Enter your name####\n")
+    print("###your name is not:"+name+ " xD")
 practise_on_my_own()
