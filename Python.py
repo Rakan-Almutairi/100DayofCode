@@ -14,8 +14,8 @@ def FirstWeek():
     x1=float(x1)
     x2=int(x2)
     print("\tx1",x1,type(x1),"\n\tx2",x2,type(x2),"\n\tx3",x3,type(x3),"====>Can't change the type xD")
-def String_practise():
-    print("#####String_parcise###### \n")
+def SecoundWeek():
+    print("##### SecoundWeek ###### \n")
     a ='''Hello,World
     this is a practise for python'''
     #string practise 
@@ -40,11 +40,6 @@ def Oprations():
     print("Rakan" in a) #search Rakan is it in a list
 
 #lessons fun 
-FirstWeek()
-String_practise()
-Oprations()
-
-def practise_on_my_own():
-    name=input("####Enter your name####\n")
-    print("###your name is not:"+name+ " xD")
-practise_on_my_own()
+#FirstWeek()
+SecoundWeek()
+#Oprations()
